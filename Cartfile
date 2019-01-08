@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "dev"
+github "mitchellhenke/LoopKit" "rsilvers-129-dev-update"
+github "mitchellhenke/dexcom-share-client-swift" "rsilvers-129-dev-update"
