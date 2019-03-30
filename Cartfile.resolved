@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "bf4166bc77f89e22971f2030ad006967881ff082"
-github "LoopKit/dexcom-share-client-swift" "b0419edf55c7f389b36cb47dd5c376bbd3d03d69"
+github "mitchellhenke/LoopKit" "850c6c4395bc6f3d48334f8b4b5e243346754fbd"
+github "mitchellhenke/dexcom-share-client-swift" "5362c17eb8f4be6b0cfaaa58daceb6894aebd4f9"
